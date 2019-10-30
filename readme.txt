@@ -1,4 +1,4 @@
-Thing to do
+Things to do
 
 1. goto A_Web_Server/var/www/html/Running_AdminConsole/campaignManager/services
 2. add or create flushTool.js & runCron.sh files there
